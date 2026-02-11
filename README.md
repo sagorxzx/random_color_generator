@@ -1,2 +1,2 @@
 # Random color picker 
-<img src="screenshot.png" alt="Screenshot">
+<img src="Screenshot.png" alt="Screenshot">
